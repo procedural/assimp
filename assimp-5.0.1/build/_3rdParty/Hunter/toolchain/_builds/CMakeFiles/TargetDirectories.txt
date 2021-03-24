@@ -1,2 +1,0 @@
-/home/constantine/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir
-/home/constantine/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir
