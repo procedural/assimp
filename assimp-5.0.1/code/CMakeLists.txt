@@ -147,7 +147,7 @@ SET( Core_SRCS
 )
 
 IF(MSVC)
-  #list(APPEND Core_SRCS "res/assimp.rc")
+  list(APPEND Core_SRCS "res/assimp.rc")
 ENDIF(MSVC)
 
 SET( Logging_SRCS
