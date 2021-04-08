@@ -1,7 +1,0 @@
-C:/Users/iamvf/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build_windows10/CMakeFiles/uninstall.dir
-C:/Users/iamvf/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build_windows10/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
-C:/Users/iamvf/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build_windows10/CMakeFiles/INSTALL.dir
-C:/Users/iamvf/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build_windows10/CMakeFiles/ALL_BUILD.dir
-C:/Users/iamvf/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build_windows10/CMakeFiles/ZERO_CHECK.dir
-C:/Users/iamvf/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build_windows10/code/CMakeFiles/assimp.dir
-C:/Users/iamvf/Desktop/assimp5_binaries_ubuntu_16_04/assimp-5.0.1/build_windows10/code/CMakeFiles/INSTALL.dir
