@@ -1,0 +1,12 @@
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/CMakeFiles/uninstall.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/CMakeFiles/INSTALL.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/CMakeFiles/ALL_BUILD.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/CMakeFiles/ZERO_CHECK.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/code/CMakeFiles/assimp.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/code/CMakeFiles/INSTALL.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/tools/assimp_cmd/CMakeFiles/assimp_cmd.dir
+C:/Users/iamvf/Desktop/assimp_binaries_ubuntu_16_04_and_windows_10/assimp-6eae925/build_windows10/tools/assimp_cmd/CMakeFiles/INSTALL.dir

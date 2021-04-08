@@ -1,0 +1,1868 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\CApi\CInterfaceIOWrapper.cpp">
+      <Filter>CApi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\ZipArchiveIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\material.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\AssertHandler.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Exceptional.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\CApi\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\DropFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ArmaturePopulate.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\GenBoundingBoxesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\SplitByBoneCountProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Material\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STEPParser\STEPFileReader.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STEPParser\STEPFileEncoding.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AMF\AMFImporter.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AMF\AMFImporter_Geometry.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AMF\AMFImporter_Material.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AMF\AMFImporter_Postprocess.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3DS\3DSConverter.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3DS\3DSLoader.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AC\ACLoader.cpp">
+      <Filter>AssetLib\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\ASE\ASELoader.cpp">
+      <Filter>AssetLib\ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\ASE\ASEParser.cpp">
+      <Filter>AssetLib\ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assbin\AssbinLoader.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\B3D\B3DImporter.cpp">
+      <Filter>AssetLib\B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\BVH\BVHLoader.cpp">
+      <Filter>AssetLib\BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaHelper.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaLoader.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaParser.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\DXF\DXFLoader.cpp">
+      <Filter>AssetLib\DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\CSM\CSMLoader.cpp">
+      <Filter>AssetLib\CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\HMP\HMPLoader.cpp">
+      <Filter>AssetLib\HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Irr\IRRMeshLoader.cpp">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Irr\IRRShared.cpp">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Irr\IRRLoader.cpp">
+      <Filter>AssetLib\IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWO\LWOAnimation.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWO\LWOBLoader.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWO\LWOLoader.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWO\LWOMaterial.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWS\LWSLoader.cpp">
+      <Filter>AssetLib\LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\M3DImporter.cpp">
+      <Filter>AssetLib\M3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\M3DWrapper.cpp">
+      <Filter>AssetLib\M3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD2\MD2Loader.cpp">
+      <Filter>AssetLib\MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD3\MD3Loader.cpp">
+      <Filter>AssetLib\MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD5\MD5Loader.cpp">
+      <Filter>AssetLib\MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD5\MD5Parser.cpp">
+      <Filter>AssetLib\MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDC\MDCLoader.cpp">
+      <Filter>AssetLib\MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\MDLLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\MDLMaterialLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\HL1MDLLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\UniqueNameGenerator.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\NFF\NFFLoader.cpp">
+      <Filter>AssetLib\NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\NDO\NDOLoader.cpp">
+      <Filter>AssetLib\NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\OFF\OFFLoader.cpp">
+      <Filter>AssetLib\OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjFileImporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjFileMtlImporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjFileParser.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreImporter.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreStructs.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreBinarySerializer.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreXmlSerializer.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreMaterial.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\OpenGEX\OpenGEXImporter.cpp">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ply\PlyLoader.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ply\PlyParser.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MS3D\MS3DLoader.cpp">
+      <Filter>AssetLib\MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\COB\COBLoader.cpp">
+      <Filter>AssetLib\COB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderLoader.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderDNA.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderScene.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderModifier.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderBMesh.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderTessellator.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderCustomData.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCLoader.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCUtil.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCGeometry.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCMaterial.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCProfile.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCCurve.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCBoolean.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCOpenings.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\XGL\XGLLoader.cpp">
+      <Filter>AssetLib\XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXImporter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXParser.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXTokenizer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXConverter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXUtil.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXDocument.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXProperties.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXMeshGeometry.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXMaterial.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXModel.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXAnimation.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXNodeAttribute.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXDeformer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXBinaryTokenizer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXDocumentUtil.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Q3D\Q3DLoader.cpp">
+      <Filter>AssetLib\Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Q3BSP\Q3BSPFileParser.cpp">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Q3BSP\Q3BSPFileImporter.cpp">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Raw\RawLoader.cpp">
+      <Filter>AssetLib\RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\SIB\SIBImporter.cpp">
+      <Filter>AssetLib\SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\SMD\SMDLoader.cpp">
+      <Filter>AssetLib\SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STL\STLLoader.cpp">
+      <Filter>AssetLib\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Terragen\TerragenLoader.cpp">
+      <Filter>AssetLib\TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Unreal\UnrealLoader.cpp">
+      <Filter>AssetLib\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X\XFileImporter.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X\XFileParser.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X3D\X3DImporter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFCommon.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFImporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2Importer.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3MF\D3MFImporter.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3MF\D3MFOpcPackage.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MMD\MMDImporter.cpp">
+      <Filter>AssetLib\MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MMD\MMDPmxParser.cpp">
+      <Filter>AssetLib\MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjExporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\OpenGEX\OpenGEXExporter.cpp">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ply\PlyExporter.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3DS\3DSExporter.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assbin\AssbinExporter.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assbin\AssbinFileWriter.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assxml\AssxmlExporter.cpp">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assxml\AssxmlFileWriter.cpp">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\M3DExporter.cpp">
+      <Filter>AssetLib\M3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaExporter.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXExporter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXExportNode.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXExportProperty.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STL\STLExporter.cpp">
+      <Filter>AssetLib\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X\XFileExporter.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X3D\X3DExporter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFExporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2Exporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3MF\D3MFExporter.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Pbrt\PbrtExporter.cpp">
+      <Filter>AssetLib\PBRT</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assjson\cencode.c">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assjson\json_exporter.cpp">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assjson\mesh_splitter.cpp">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Step\StepExporter.cpp">
+      <Filter>AssetLib\STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\unzip\crypt.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\unzip\ioapi.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\unzip\unzip.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\clipper\clipper.cpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\code\Value.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\CApi\CInterfaceIOWrapper.h">
+      <Filter>CApi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\PolyTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\DefaultLogger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\LogStream.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Logger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\NullLogger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Common\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\BlobIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\DropFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\ArmaturePopulate.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\GenBoundingBoxesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\PostProcessing\SplitByBoneCountProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Material\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STEPParser\STEPFileReader.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STEPParser\STEPFileEncoding.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AMF\AMFImporter.hpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AMF\AMFImporter_Node.hpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3DS\3DSHelper.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3DS\3DSLoader.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\AC\ACLoader.h">
+      <Filter>AssetLib\AC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\ASE\ASELoader.h">
+      <Filter>AssetLib\ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\ASE\ASEParser.h">
+      <Filter>AssetLib\ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assbin\AssbinLoader.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\B3D\B3DImporter.h">
+      <Filter>AssetLib\B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\BVH\BVHLoader.h">
+      <Filter>AssetLib\BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaHelper.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaLoader.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaParser.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\DXF\DXFLoader.h">
+      <Filter>AssetLib\DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\DXF\DXFHelper.h">
+      <Filter>AssetLib\DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\CSM\CSMLoader.h">
+      <Filter>AssetLib\CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\HMP\HMPFileData.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\HMP\HMPLoader.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\HMP\HalfLifeFileData.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Irr\IRRMeshLoader.h">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Irr\IRRShared.h">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Irr\IRRLoader.h">
+      <Filter>AssetLib\IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWO\LWOAnimation.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWO\LWOFileData.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWO\LWOLoader.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\LWS\LWSLoader.h">
+      <Filter>AssetLib\LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\M3DMaterials.h">
+      <Filter>AssetLib\M3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\M3DImporter.h">
+      <Filter>AssetLib\M3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\M3DWrapper.h">
+      <Filter>AssetLib\M3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\m3d.h">
+      <Filter>AssetLib\M3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD2\MD2FileData.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD2\MD2Loader.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD2\MD2NormalTable.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD3\MD3FileData.h">
+      <Filter>AssetLib\MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD3\MD3Loader.h">
+      <Filter>AssetLib\MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD5\MD5Loader.h">
+      <Filter>AssetLib\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MD5\MD5Parser.h">
+      <Filter>AssetLib\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDC\MDCFileData.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDC\MDCLoader.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDC\MDCNormalTable.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\MDLDefaultColorMap.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\MDLFileData.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\MDLLoader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\HalfLifeMDLBaseHeader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\HL1FileData.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\HL1MDLLoader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\HL1ImportDefinitions.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\HL1ImportSettings.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\HL1MeshTrivert.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\LogFunctions.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MDL\HalfLife\UniqueNameGenerator.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\NFF\NFFLoader.h">
+      <Filter>AssetLib\NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\NDO\NDOLoader.h">
+      <Filter>AssetLib\NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\OFF\OFFLoader.h">
+      <Filter>AssetLib\OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjFileData.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjFileImporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjFileMtlImporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjFileParser.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjTools.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreImporter.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreStructs.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreParsingUtils.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreBinarySerializer.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ogre\OgreXmlSerializer.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\OpenGEX\OpenGEXImporter.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\OpenGEX\OpenGEXStructs.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ply\PlyLoader.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ply\PlyParser.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MS3D\MS3DLoader.h">
+      <Filter>AssetLib\MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\COB\COBLoader.h">
+      <Filter>AssetLib\COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\COB\COBScene.h">
+      <Filter>AssetLib\COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderLoader.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderDNA.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderDNA.inl">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderScene.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderSceneGen.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderIntermediate.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderModifier.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderBMesh.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderTessellator.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Blender\BlenderCustomData.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCLoader.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCReaderGen_2x3.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\IFC\IFCUtil.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\XGL\XGLLoader.h">
+      <Filter>AssetLib\XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXCompileConfig.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXImporter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXParser.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXTokenizer.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXImportSettings.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXConverter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXUtil.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXDocument.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXProperties.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXMeshGeometry.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXCommon.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Q3D\Q3DLoader.h">
+      <Filter>AssetLib\Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Q3BSP\Q3BSPFileData.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Q3BSP\Q3BSPFileParser.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Q3BSP\Q3BSPFileImporter.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Raw\RawLoader.h">
+      <Filter>AssetLib\RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\SIB\SIBImporter.h">
+      <Filter>AssetLib\SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\SMD\SMDLoader.h">
+      <Filter>AssetLib\SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STL\STLLoader.h">
+      <Filter>AssetLib\STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Terragen\TerragenLoader.h">
+      <Filter>AssetLib\TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Unreal\UnrealLoader.h">
+      <Filter>AssetLib\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X\XFileHelper.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X\XFileImporter.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X\XFileParser.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X3D\X3DImporter.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFCommon.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFAsset.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFAsset.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFAssetWriter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFAssetWriter.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFImporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2Asset.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2Asset.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2AssetWriter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2AssetWriter.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2Importer.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3MF\D3MFImporter.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3MF\D3MFOpcPackage.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3MF\3MFXmlTags.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MMD\MMDCpp14.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MMD\MMDImporter.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MMD\MMDPmdParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MMD\MMDPmxParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\MMD\MMDVmdParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Obj\ObjExporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\OpenGEX\OpenGEXExporter.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Ply\PlyExporter.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3DS\3DSExporter.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assbin\AssbinExporter.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assbin\AssbinFileWriter.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assxml\AssxmlExporter.h">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assxml\AssxmlFileWriter.h">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\M3D\M3DExporter.h">
+      <Filter>AssetLib\M3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Collada\ColladaExporter.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXExporter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXExportNode.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\FBX\FBXExportProperty.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\STL\STLExporter.h">
+      <Filter>AssetLib\STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X\XFileExporter.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\X3D\X3DExporter.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF\glTFExporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\glTF2\glTF2Exporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\3MF\D3MFExporter.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\Pbrt\PbrtExporter.h">
+      <Filter>AssetLib\PBRT</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assjson\cencode.h">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Assjson\mesh_splitter.h">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\AssetLib\Step\StepExporter.h">
+      <Filter>AssetLib\STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\unzip\crypt.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\unzip\ioapi.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\unzip\unzip.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\clipper\clipper.hpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\pugixml\src\pugiconfig.hpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\contrib\pugixml\src\pugixml.hpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\anim.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\aabb.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\ai_assert.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\camera.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\color4.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\color4.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\build_windows10\include\assimp\config.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\ColladaMetaData.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\commonMetaData.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\defs.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Defines.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\cfileio.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\light.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\material.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\material.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\matrix3x3.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\matrix3x3.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\matrix4x4.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\matrix4x4.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\mesh.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\pbrmaterial.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\postprocess.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\quaternion.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\quaternion.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\scene.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\metadata.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\texture.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\types.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\vector2.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\vector2.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\vector3.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\vector3.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\version.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\cimport.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\importerdesc.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Importer.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\ProgressHandler.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\IOStream.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\IOSystem.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\cexport.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Exporter.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\DefaultIOStream.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\DefaultIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\ZipArchiveIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\SceneCombiner.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\fast_atof.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\qnan.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\BaseImporter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Hash.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\MemoryIOWrapper.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\ParsingUtils.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\StreamReader.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\StreamWriter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\StringComparison.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\StringUtils.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\SGSpatialSort.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\GenericProperty.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\SpatialSort.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\SmallVector.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\SmoothingGroups.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\SmoothingGroups.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\StandardShapes.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\RemoveComments.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Subdivision.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Vertex.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\LineSplitter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\TinyFormatter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Profiler.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\LogAux.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Bitmap.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\XMLTools.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\IOStreamBuffer.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\CreateAnimMesh.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\XmlParser.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\MathFunctions.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Exceptional.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\ByteSwapper.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\iamvf\Desktop\assimp_binaries_ubuntu_16_04_and_windows_10\assimp-6eae925\code\res\assimp.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AssetLib">
+      <UniqueIdentifier>{D7E96669-090A-334E-B8B7-E8AC19A89494}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3D">
+      <UniqueIdentifier>{8DC2DB31-BC7F-3E0F-8E97-05451D0550EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3DS">
+      <UniqueIdentifier>{14C7F367-84DA-3645-B668-1C6FCB6FF81C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3MF">
+      <UniqueIdentifier>{0A8DBB57-97AA-31D8-ABDC-294ABA28E972}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\AC">
+      <UniqueIdentifier>{9840617C-1407-3006-920A-023BFEF3D0A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\AMF">
+      <UniqueIdentifier>{23FD30A3-0BAD-396D-A518-D81B98BA28D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASE">
+      <UniqueIdentifier>{4C025770-F16C-302F-90CD-87FA34EF7AAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSBIN">
+      <UniqueIdentifier>{A6B86AC0-1786-3222-A6CB-DF5507411DA9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSJSON">
+      <UniqueIdentifier>{0F029697-E791-3F1B-95EB-5431C1B619FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSXML">
+      <UniqueIdentifier>{8E000294-EAFE-3E17-8C94-25EC2C1B6447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\B3D">
+      <UniqueIdentifier>{E4802FB0-4B99-3A98-AF71-B1BE1770F58F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\BLEND">
+      <UniqueIdentifier>{B043BC5F-C395-3B39-8B53-70B3C669CE9C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\BVH">
+      <UniqueIdentifier>{29DF335B-BFDD-3C0D-BB69-B941590F23EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\COB">
+      <UniqueIdentifier>{5632CB6C-AF1C-3D97-BA04-2E0180B96293}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\COLLADA">
+      <UniqueIdentifier>{AB6A86DC-521A-3C7C-A2D5-ADC984B9E490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\CSM">
+      <UniqueIdentifier>{1F9C9748-05D1-3490-943C-C5AE81D1CBB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\DXF">
+      <UniqueIdentifier>{1350436B-5DE2-32A5-A663-13615A3350BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\FBX">
+      <UniqueIdentifier>{E5DA06E7-65BF-30FC-BF4D-054534976D06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\GLTF">
+      <UniqueIdentifier>{94A2D7E3-9A52-3146-B0B3-F65C82B29CF0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\HMP">
+      <UniqueIdentifier>{5BB8D65D-C932-3AC1-B44A-44FE5A00662C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IFC">
+      <UniqueIdentifier>{2117C019-1896-3FF9-AA55-D2B00E3E7F79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IRR">
+      <UniqueIdentifier>{6F533424-CAA4-3DEA-A1CF-744E43BD5D1E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IRRMESH">
+      <UniqueIdentifier>{EDB185D1-640C-396B-A908-45EAC4D215AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\LWO">
+      <UniqueIdentifier>{6BEEA899-AFE4-3F8B-B3C0-5BDCE39D8C79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\LWS">
+      <UniqueIdentifier>{CF6877EA-41DE-3216-AD31-7C0C453ED40E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\M3D">
+      <UniqueIdentifier>{F8D36094-8705-370E-92D4-7F2C8C19554D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD2">
+      <UniqueIdentifier>{8BCB622E-4282-38EC-9DCA-3B3F9CED9BF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD3">
+      <UniqueIdentifier>{31864F23-E51E-3A22-ABC4-4E4224DB0BD0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD5">
+      <UniqueIdentifier>{FEFD1B48-98C6-348E-BAF4-2125EC31ED15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MDC">
+      <UniqueIdentifier>{063BEAD0-3342-3C10-8D4F-F7FBAA93075F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MDL">
+      <UniqueIdentifier>{ED717A61-C5C0-3D68-BCCA-BC0C00F75D3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MMD">
+      <UniqueIdentifier>{AE59D67B-9D2F-3B88-B05F-62AF31B5EA51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MS3D">
+      <UniqueIdentifier>{9EBF2342-5FA5-317F-A65D-D575B9C10FE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\NDO">
+      <UniqueIdentifier>{639D414B-D62B-3E2D-81FB-8E9B43CE5C9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\NFF">
+      <UniqueIdentifier>{B9450362-AC9D-3DA4-9236-492C701FDD8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OBJ">
+      <UniqueIdentifier>{4BCD0730-4C82-3545-8383-67EA223FE0B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OFF">
+      <UniqueIdentifier>{2B741C42-E7C1-3DA2-B70C-1044EA794D1A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OGRE">
+      <UniqueIdentifier>{33556970-E4A7-3ED4-B651-CEA66AB8D94C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OPENGEX">
+      <UniqueIdentifier>{EF3E3F7E-2925-3BAB-8935-5CC57BC8D996}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\PBRT">
+      <UniqueIdentifier>{4BFF811A-9FA2-3626-AAB0-400D2C068BCF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\PLY">
+      <UniqueIdentifier>{7A9F2719-2A2E-33EA-8188-33B310F52CF9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\Q3BSP">
+      <UniqueIdentifier>{C66CFF9D-762A-3819-BC5F-DBAB414C7766}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\Q3D">
+      <UniqueIdentifier>{67752811-169B-309A-919A-D66A0C75E8D5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\RAW">
+      <UniqueIdentifier>{643633A8-8FAD-3C24-BA72-01AB9CA55895}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\SIB">
+      <UniqueIdentifier>{2B92AECA-9D3E-362F-943D-E1770E89C4C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\SMD">
+      <UniqueIdentifier>{9EF74DA0-083B-3F07-AF70-9292EE600F55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\STEP">
+      <UniqueIdentifier>{D5428472-9910-303C-9954-9E9DF863474D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\STL">
+      <UniqueIdentifier>{434C3395-0663-3CD0-A7F4-52B9E941198A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\TERRAGEN">
+      <UniqueIdentifier>{B6E976CD-9972-3762-B365-8AA28C78701D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\X">
+      <UniqueIdentifier>{43106FD8-DA10-3B34-9730-B0FBC1A614A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\X3D">
+      <UniqueIdentifier>{845D92D2-EFB5-3641-9E36-E11DAE973A10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\XGL">
+      <UniqueIdentifier>{0E9F734B-6A6F-37FC-800B-0601FDFD5E72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CApi">
+      <UniqueIdentifier>{C8EB25B6-F13D-3507-99CA-57F9BBF55437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{9DE82B2A-3131-3E3A-A07F-5AD4B9643700}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{3E0A10E0-5CC8-3D2F-BCFB-B75E20A49EF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib">
+      <UniqueIdentifier>{04887225-B586-38ED-A053-E8B8CDB7AA23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Clipper">
+      <UniqueIdentifier>{78D5631B-13CD-379D-AA44-484AD1055AB5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Poly2Tri">
+      <UniqueIdentifier>{5427EB4E-CE50-3CEC-9D60-9D15F1B7E8C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Pugixml">
+      <UniqueIdentifier>{677B53A7-9D4A-3EFB-9B3A-F725B8B4EF04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\open3dgc">
+      <UniqueIdentifier>{3606C222-514D-3409-A62F-65399D579265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\openddl_parser">
+      <UniqueIdentifier>{79398CF2-F79F-3957-A65D-E654B63ECE46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\unzip">
+      <UniqueIdentifier>{D39FE245-B179-349A-A4E8-BD3EC85A922F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{8403D10E-62DF-3558-BB44-E2DF00EF5204}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{38A26146-30FC-3F4E-9DD8-5A08B5A2D367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{08E7F159-5E7E-3B10-A6B8-DCD591E57438}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{F39370E1-BCE8-3F1E-97B1-B0018C358FD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPParser">
+      <UniqueIdentifier>{5E67375A-6180-3820-B997-66931C0C7903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F3473673-DACE-3073-B80C-B2801FD9102B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{CDA91F44-F99D-3C71-9841-238BCBB01746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\assimp">
+      <UniqueIdentifier>{D40F9F88-87F0-3F78-8712-A55FF2473F35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{EDB82A85-3CAA-3C97-9F8F-21B49992F5BB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
