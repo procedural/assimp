@@ -1,4 +1,4 @@
-Download size: 383 MB
+Download size: 434 MB
 
 ## Assimp 5.0.1, commit 6eae925
 
